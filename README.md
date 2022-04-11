@@ -7,7 +7,7 @@ Dashboard : https://datastudio.google.com/u/0/reporting/eac0f385-c9f6-4495-bd07-
 
 Code : https://colab.research.google.com/github/Sitthirat/data_viz_2022/blob/main/Project_Group.ipynb
 
-Precessing : https://www.canva.com/design/DAE76ORbL4U/cmn2s6a-hLWjE5U-HJFFvg/edit?utm_content=DAE76ORbL4U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton&fbclid=IwAR32tUHYktI2VYjGQ1P4mVv4rT-j05BXaAX7dCZoAsht-QRriKlNmvolA6A
+นำเสนอ : https://www.canva.com/design/DAE76ORbL4U/cmn2s6a-hLWjE5U-HJFFvg/edit?utm_content=DAE76ORbL4U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton&fbclid=IwAR32tUHYktI2VYjGQ1P4mVv4rT-j05BXaAX7dCZoAsht-QRriKlNmvolA6A
 
 
 # Final Group unprobed
