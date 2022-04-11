@@ -3,7 +3,7 @@ Basic Progarmming for Data Science and Data Vizsualization : สิทธิร�
 
 
 # Project Group วาโรขาด2
-Dashboard : https://datastudio.google.com/u/0/reporting/eac0f385-c9f6-4495-bd07-bc125a82b4ab/page/c1roC?fbclid=IwAR2LynM6oiwIwBdCVMVdpvm74pTSFIAURpfcNAJ_oDAHlz1rGAHxeF7bqa0
+Dashboard : https://datastudio.google.com/u/0/reporting/eac0f385-c9f6-4495-bd07-bc125a82b4ab/page/c1roC?fbclid=IwAR0jHU4H28UvCbnkje5RtpmmEI4dW15ecTzf2xAOMUtKqIgKlPsmGwkNsxE
 
 Code : https://colab.research.google.com/github/Sitthirat/data_viz_2022/blob/main/Project_Group.ipynb
 
