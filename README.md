@@ -12,4 +12,4 @@ Code : https://colab.research.google.com/github/Sitthirat/data_viz_2022/blob/mai
 # Final Group unprobed
 Dashboard : https://datastudio.google.com/reporting/10415c1c-e355-485d-b4c8-a9dc9a7a2c95
 
-Code : https://colab.research.google.com/github/Sitthirat/data_viz_2022/blob/main/data_pre_processing_Fainal.ipynb
+Code : https://colab.research.google.com/github/Sitthirat/data_viz_2022/blob/main/Final.ipynb
